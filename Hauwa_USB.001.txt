@@ -1,0 +1,47 @@
+﻿Created By Exterro® FTK® Imager 4.7.3.81 
+
+Case Information: 
+Acquired using: ADI4.7.3.81
+Case Number: CIP-B102-Lab4
+Evidence Number: 1
+Unique description: USB Forensic image
+Examiner: Hauwa Haruna Yahaya
+Notes: acquired on 28/08/2026
+
+--------------------------------------------------------------
+
+Information for C:\CIP-B102-Lab4\Hauwa_USB:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 489
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 7,864,320
+[Physical Drive Information]
+ Drive Model: Generic Flash Disk USB Device
+ Drive Serial Number: E
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 3840 MB
+ Sector count:    7864320
+[Computed Hashes]
+ MD5 checksum:    ae93e774f34c206438e14c1b9f200e1b
+ SHA1 checksum:   235f9e5d6430501c1e9c2983f880d048da986f4d
+
+Image Information:
+ Acquisition started:   Fri Aug 28 22:23:42 2026
+ Acquisition finished:  Fri Aug 28 22:27:25 2026
+ Segment list:
+  C:\CIP-B102-Lab4\Hauwa_USB.001
+ COMPUTED HASH :  ae93e774f34c206438e14c1b9f200e1b
+ COMPUTED HASH :  235f9e5d6430501c1e9c2983f880d048da986f4d
+
+Image Verification Results:
+ Verification started:  Fri Aug 28 22:27:26 2026
+ Verification finished: Fri Aug 28 22:27:41 2026
+ MD5 checksum:    ae93e774f34c206438e14c1b9f200e1b : verified
+ SHA1 checksum:   235f9e5d6430501c1e9c2983f880d048da986f4d : verified
